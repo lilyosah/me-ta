@@ -1,0 +1,96 @@
+/* me(ta) */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.grid-container {
+	display: grid;
+	height: 100vh;
+	grid:
+		[row1-start] "header" max-content [row1-end] 
+		[row2-start] "content" 1fr [row2-end]
+		/ 1fr;
+}
+
+.black-bg {
+	background-color: Black;
+}
+
+.align-self {
+	align-self: center;
+}
+
+#proj2-cont {
+	display: grid;
+	height: 100vh;
+	overflow: hidden;
+	grid: 		
+		[top-row] "proj2-top proj2-top" 1fr [top-row-end]
+		[bottom-row] "proj2-bottom proj2-bottom" 1fr [bottom-row-end]
+		/ 1fr 1fr;
+}
+
+#proj2-grid {
+	/* background-color: red; */
+	display: grid;
+	height: calc(100% - 2vh); 
+	/* height: 100%; */
+	gap: 1.5vh;
+	padding: 1vh 1vh 1vh 1vh;
+	grid-template-rows: repeat(10, 1fr);
+	grid-template-columns: repeat(100, 1fr);
+}
+
+#proj2-upper-cont {
+	grid-area: proj2-top;
+}
+
+#proj2-bottom {
+	grid-area: proj2-bottom;
+	padding:2.5vh 2.5vh 2.5vh 2.5vh;
+	display: grid;
+	/* gap: 1.5vh; */
+	overflow: hidden;
+	justify-items: center;
+	align-items: center;
+	-ms-overflow-style: none;  /* IE and Edge */
+	  scrollbar-width: none;  /* Firefox */
+	  height: 100%;
+}
+
+#proj2-bottom::-webkit-scrollbar {
+  	display: none;
+}
+
+#proj2-bottom-txt {
+	/* font-size: 8vh; */
+	font-family: 'Roboto Mono', monospace;
+	font-size: max(1vh,3vw);
+	overflow: hidden;
+	color: black;
+
+}
+
+#proj2-bottom-cont {
+	font-family: 'Homemade Apple', cursive;
+	align-self: start;
+	text-align: center;
+	animation-name: shake;
+	animation-duration: .05s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	font-size: min(6vw,5vh);
+	/* font-size: 10px; */
+}
+
+@keyframes shake{
+  from {
+    margin-top: 2px; 
+  }
+
+  to {
+    margin-top: 0;
+  }
+}

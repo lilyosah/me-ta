@@ -1,0 +1,219 @@
+Time,Platform,Words,Incoming/Outgoing,Recepients,Media,Purpose,Content
+8/31/2020 2:08:00,Email,147,Incoming,Many,Pictures&Links,Promotion,
+8/31/2020 8:16:00,Email,217,Incoming,1,Images&Links,Update,what is my credit score
+8/31/2020 8:54:00,Text,2,Outgoing,1,No,Response,
+8/31/2020 8:54:00,Reddit,20,Incoming,Many,Photos&Videos,Scrolling,hehe
+8/31/2020 8:54:00,Text,0,Outgoing,1,Photo,Meme,
+8/31/2020 9:49:00,Text,5,Outgoing,1,Photo,Update,
+8/31/2020 10:00:00,Slack,11,Outgoing,17,No,Question,hhhhhh
+8/31/2020 10:00:00,GroupMe,11,Incoming,36,No,Question,
+8/31/2020 10:02:00,GroupMe,2,Incoming,36,Link,Response,Electronic library. Download books free. Finding books
+8/31/2020 10:02:00,GroupMe,10,Incoming,36,Eyes emoji,Response,eyes emoji
+8/31/2020 10:02:00,GroupMe,1,Incoming,36,No,Response,
+8/31/2020 10:04:00,GroupMe,8,Outgoing,36,No,Response,dang
+8/31/2020 10:04:00,GroupMe,5,Outgoing,36,No,Update,
+8/31/2020 10:04:00,GroupMe,1,Incoming,36,Link,Response,
+8/31/2020 10:04:00,GroupMe,4,Incoming,36,No,Comment,am i stealing someone else's idea?
+8/31/2020 10:05:00,GroupMe,10,Incoming,36,No,Comment,hm
+8/31/2020 10:07:00,Discord,24,Outgoing,106,Eyes emoji,Advice,Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.
+8/31/2020 10:28:00,Email,309,Incoming,38,Google Calendar Plugin,Invitation,im glad im on campus
+8/31/2020 10:28:00,Zoom,55,Variable,28,Video Stream,Class,
+8/31/2020 11:00:00,Slack,1,Incoming,17,Smile Emoji,Answer,this is a lot of work
+8/31/2020 11:05:00,Email,150,Incoming,Many,Pictures&Links,Promotion,why
+8/31/2020 11:13:00,Email,278,Incoming,1,Links,Notification,
+8/31/2020 11:19:00,Email,317,Incoming,Many,Pictures&Links,Promotion,why
+8/31/2020 11:25:00,Discord,2,Outgoing,106,Emoji without mouth,Comment,
+8/31/2020 11:25:00,Discord,0,Incoming,106,Meme,Response,am i awkward. does anyone care about this
+8/31/2020 11:33:00,Email,313,Incoming,1,Pictures&Links,Update,straight into trash
+8/31/2020 11:52:00,Email,16,Outgoing,1,PDF Attachment,Reponse,PDF
+8/31/2020 11:59:00,GroupMe,39,Incoming,97,No,Reminder,thanx
+8/31/2020 12:35:00,Discord,31,Incoming,106,No,Question,oh i definitely forgot about that 
+8/31/2020 12:59:00,Discord,40,Incoming,106,No,Answer,
+8/31/2020 1:07:00,Email,154,Incoming,Many,Pictures&Links,Promotion,oh my god i dont care
+8/31/2020 1:22:00,Discord,2,Incoming,106,No,Response,
+8/31/2020 1:46:00,Text,2,Incoming,1,Picture,Update,thank you
+8/31/2020 1:58:00,Discord,14,Incoming,106,Link,Update,Lab 01: Development environment. Contribute to colgate-cosc208-fall20/lab01 development by creating an account on GitHub.
+8/31/2020 2:08:00,Text,6,Outgoing,1,Picture,Question,ugghghghhghghghghghghghu what is wrong with her mouth.... something is slightly off here and it's going to drive me insane hahaaha
+8/31/2020 2:08:00,Text,7,Incoming,1,No,Response,
+8/31/2020 2:10:00,Text,3,Outgoing,1,No,Response,teef
+8/31/2020 2:10:00,Text,28,Incoming,1,No,Response,
+8/31/2020 2:11:00,Text,6,Outgoing,1,No,Response,
+8/31/2020 2:21:00,Email,523,Incoming,Many,Pictures&Links,Promotion,for the LAST TIME. i DO NOT WANT your credit card. MAYBE if you ask ONE MORE TIME i'll cave in??????
+8/31/2020 2:34:00,Email,80,Incoming,1,Pictures,Update,ugh
+8/31/2020 2:40:00,Discord,40,Incoming,106,No,Question,
+8/31/2020 2:43:00,Text,8,Outgoing,1,Picture,Response,is this ANY better.....
+8/31/2020 2:44:00,Text,18,Incoming,1,No,Response,i appreciate the support regardless
+8/31/2020 2:48:00,Text,10,Outgoing,1,Picture,Response,
+8/31/2020 2:56:00,Text,5,Incoming,1,No,Question,
+8/31/2020 2:56:00,Text,7,Outgoing,1,Picture,Answer,
+8/31/2020 3:01:00,Email,48,Incoming,1,No,Answer,
+8/31/2020 3:05:00,Email,5,Incoming,1,No,Reponse,awesome thanks.....
+8/31/2020 3:21:00,Email,9,Outgoing,1,No,Reponse,for nothing ://
+8/31/2020 3:21:00,WhatsApp,7,Outgoing,1,No,Update,
+8/31/2020 3:22:00,Email,2,Incoming,1,No,Update,
+8/31/2020 3:25:00,Email,0,Incoming,1,PDF Attachment,Update,PDF
+8/31/2020 3:25:00,GroupMe,5,Incoming,48,No,Question,
+8/31/2020 3:25:00,GroupMe,2,Incoming,48,No,Response,
+8/31/2020 3:25:00,GroupMe,1,Incoming,48,No,Response,
+8/31/2020 3:25:00,GroupMe,2,Incoming,48,No,Response,
+8/31/2020 3:26:00,WhatsApp,13,Incoming,1,No,Response,oop
+8/31/2020 3:27:00,WhatsApp,12,Outgoing,1,No,Response,
+8/31/2020 3:27:00,WhatsApp,8,Incoming,1,No,Response,
+8/31/2020 3:29:00,WhatsApp,14,Outgoing,1,No,Response,
+8/31/2020 3:29:00,GroupMe,3,Incoming,48,No,Response,
+8/31/2020 3:29:00,WhatsApp,11,Incoming,1,No,Response,
+8/31/2020 3:30:00,WhatsApp,1,Incoming,1,No,Response,
+8/31/2020 3:31:00,WhatsApp,12,Incoming,1,No,Response,this internship has been the most validating experience but it's also entirely anithetical to all that i am. so much fun to grapple with please don't ask too much?
+8/31/2020 3:31:00,WhatsApp,10,Outgoing,1,No,Response,
+8/31/2020 3:31:00,WhatsApp,1,Incoming,1,No,Response,
+8/31/2020 3:31:00,WhatsApp,19,Outgoing,1,No,Response,
+8/31/2020 3:32:00,WhatsApp,13,Incoming,1,No,Response,please stop talking to me it's hard to log everything
+8/31/2020 3:32:00,WhatsApp,3,Outgoing,1,No,Response,
+8/31/2020 3:34:00,Zoom,100,Variable,1,Video Stream,Class,this is so. boring
+8/31/2020 4:07:00,Email,21,Incoming,1,No,Update,
+8/31/2020 4:24:00,Email,13,Incoming,1,No,Update,
+8/31/2020 4:57:00,Email,4,Outgoing,1,No,Response,
+8/31/2020 5:00:00,Email,642,Incoming,Many,No,Update,tea. i live for these updates. is that sadistic? the more people who go home the smaller chance i'll have to.... although it is kinda disappointing 
+8/31/2020 5:00:00,Email,120,Incoming,70,No,Update,
+8/31/2020 5:23:00,Text,30,Incoming,2,No,Question,
+8/31/2020 5:29:00,Text,8,Outgoing,2,No,Response,
+8/31/2020 5:29:00,Text,18,Incoming,2,No,Response,
+8/31/2020 5:30:00,Text,15,Incoming,2,No,Response,
+8/31/2020 5:32:00,Text,6,Incoming,2,No,Response,
+8/31/2020 5:33:00,Text,16,Incoming,2,No,Response,
+8/31/2020 5:38:00,Text,6,Incoming,2,No,Question,
+8/31/2020 5:43:00,Text,9,Incoming,1,No,Update,im happy for ur credit score.
+8/31/2020 5:56:00,Email,116,Incoming,Many,Links,Announcement,
+8/31/2020 5:58:00,Discord,20,Incoming,106,No,Question,
+8/31/2020 5:59:00,Discord,5,Outgoing,106,No,Response,read the syllabus
+8/31/2020 6:00:00,Discord,20,Incoming,106,No,Response,
+8/31/2020 6:00:00,Discord,33,Outgoing,106,No,Response,
+8/31/2020 6:00:00,Discord,10,Incoming,106,No,Response,
+8/31/2020 6:01:00,Discord,9,Outgoing,106,No,Response,
+8/31/2020 6:02:00,Text,4,Outgoing,2,No,Response,
+8/31/2020 6:02:00,Discord,6,Incoming,106,Channel tag,Response,@102
+8/31/2020 6:02:00,Discord,8,Incoming,106,No,Response,
+8/31/2020 6:02:00,Discord,2,Incoming,106,No,Response,
+8/31/2020 6:03:00,Text,2,Incoming,2,No,Response,
+8/31/2020 6:03:00,Text,19,Outgoing,2,No,Response,
+8/31/2020 6:02:00,Discord,23,Incoming,106,Smile Emoji,Response,what did we do to deserve such a lady. truly
+8/31/2020 6:04:00,Discord,5,Incoming,106,Smile React,Response,
+8/31/2020 6:05:00,Text,22,Incoming,2,No,Response,
+8/31/2020 6:21:00,Email,289,Incoming,Many,Pictures&Links,Announcement,yay!!!!!
+8/31/2020 6:26:00,GroupMe,18,Incoming,97,No,Reminder,
+8/31/2020 6:31:00,Email,324,Incoming,Many,Pictures&Links,Announcement,
+8/31/2020 7:09:00,GroupMe,9,Incoming,48,No,Question,
+8/31/2020 7:12:00,GroupMe,8,Incoming,48,No,Response,
+8/31/2020 7:13:00,GroupMe,7,Incoming,48,No,Response,
+8/31/2020 7:13:00,GroupMe,22,Incoming,48,No,Response,
+8/31/2020 7:14:00,GroupMe,9,Incoming,48,No,Response,
+8/31/2020 7:14:00,GroupMe,1,Incoming,48,Stressed emoji,Response,
+8/31/2020 7:15:00,GroupMe,0,Incoming,48,Sad emoji,Response,
+8/31/2020 7:15:00,GroupMe,5,Incoming,48,No,Response,
+8/31/2020 7:15:00,GroupMe,11,Incoming,48,No,Response,
+8/31/2020 7:15:00,GroupMe,15,Incoming,48,No,Response,
+8/31/2020 7:15:00,GroupMe,18,Incoming,48,Wave emoji,Response,
+8/31/2020 7:16:00,GroupMe,1,Incoming,48,No,Comment,
+8/31/2020 7:37:00,Text,2,Incoming,1,No,Comment,you are too sweet
+8/31/2020 7:37:00,Text,3,Incoming,1,No,Comment,
+8/31/2020 7:39:00,Text,8,Outgoing,1,No,Response,oops
+8/31/2020 7:39:00,Discord,59,Incoming,106,No,Question,
+8/31/2020 7:41:00,Text,11,Outgoing,1,No,Response,
+8/31/2020 7:43:00,Text,11,Incoming,1,No,Response,
+8/31/2020 7:44:00,Text,26,Outgoing,1,No,Response,
+8/31/2020 7:46:00,Text,6,Incoming,1,No,Response,this is so sad
+8/31/2020 7:51:00,Text,14,Outgoing,1,No,Response,you're funny though
+8/31/2020 7:53:00,Text,11,Incoming,1,No,Response,
+8/31/2020 7:53:00,Text,1,Outgoing,1,No,Response,
+8/31/2020 7:53:00,Text,1,Incoming,1,No,Response,
+8/31/2020 7:53:00,Text,7,Outgoing,1,No,Response,
+8/31/2020 7:54:00,Text,19,Incoming,1,No,Response,
+8/31/2020 7:54:00,Text,5,Outgoing,1,No,Response,
+8/31/2020 7:56:00,Email,79,Incoming,20,No,Update,
+8/31/2020 8:24:00,Discord,21,Outgoing,106,Link,Comment,
+8/31/2020 8:31:00,Discord,0,Incoming,106,Picture&laugh react,Meme,
+8/31/2020 8:32:00,Discord,7,Outgoing,106,No,Response,
+8/31/2020 8:44:00,Email,237,Incoming,20,No,Invitation,
+8/31/2020 8:44:00,Email,368,Incoming,20,Google Calendar Plugin,Invitation,:(
+8/31/2020 9:25:00,Email,126,Incoming,1,Links,Password reset,yeah yeah yeah whatever give me my password link please
+8/31/2020 9:33:00,Text,8,Outgoing,1,No,Question,
+8/31/2020 9:39:00,Discord,67,Incoming,106,Tag,Response,@james
+8/31/2020 9:42:00,Text,10,Incoming,1,No,Response,
+8/31/2020 9:43:00,Text,13,Outgoing,1,No,Response,
+8/31/2020 9:44:00,Text,8,Incoming,1,No,Response,
+8/31/2020 9:47:00,Text,12,Outgoing,1,No,Response,
+8/31/2020 9:50:00,Discord,9,Incoming,106,No,Comment,
+8/31/2020 9:50:00,Text,3,Incoming,1,No,Response,
+8/31/2020 9:51:00,Text,3,Outgoing,1,Sunglasses emoji&painting nails emoji,Response,sassy
+8/31/2020 9:55:00,Discord,11,Outgoing,106,No,Response,london.pl | YoHa
+8/31/2020 9:58:00,Discord,13,Incoming,106,No,Response,this is so good
+8/31/2020 10:00:00,Text,18,Incoming,1,No,Comment,
+8/31/2020 10:04:00,Text,17,Outgoing,1,Exhale emoji,Response,EXHALE
+8/31/2020 10:06:00,Discord,5,Outgoing,106,No,Response,you're incredible
+8/31/2020 10:06:00,Text,8,Outgoing,1,Picture,Comment,stright vibing with a chicken
+8/31/2020 10:08:00,Text,12,Incoming,1,No,Response,
+8/31/2020 10:11:00,Text,9,Outgoing,1,No,Response,
+8/31/2020 10:27:00,Discord,4,Incoming,106,Picture&Heart react,Meme,
+8/31/2020 10:32:00,Discord,18,Outgoing,106,No,Question,
+8/31/2020 10:34:00,Discord,14,Incoming,106,No,Answer,lol
+8/31/2020 10:36:00,Text,79,Outgoing,1,Picture,Comment,what is happening with MY face. am i dying? things could be much worse i guess. is it my stomach? can that make your face worse? am i just believing everyhting i see online like my mom? ughghgh
+8/31/2020 10:39:00,Discord,12,Outgoing,106,No,Response,:)
+8/31/2020 10:42:00,Discord,7,Incoming,106,Shrug react,Response,
+8/31/2020 10:45:00,Text,11,Incoming,1,No,Response,
+8/31/2020 10:46:00,Text,18,Outgoing,1,No,Response,OH my god. 
+8/31/2020 10:46:00,Text,8,Incoming,1,No,Response,
+8/31/2020 10:46:00,Text,10,Outgoing,1,No,Response,oh my GOD
+8/31/2020 10:47:00,Text,8,Incoming,1,No,Response,
+8/31/2020 10:47:00,Text,1,Outgoing,1,No,Response,
+8/31/2020 10:47:00,Text,26,Incoming,1,No,Response,why do i always do this..... this is what i get for not researching something i put into my body. jeez first with the shot and now with this i really am like my mom this is so bad
+8/31/2020 10:48:00,Text,4,Outgoing,1,No,Response,
+8/31/2020 10:48:00,Text,7,Incoming,1,No,Response,
+8/31/2020 10:48:00,Text,1,Outgoing,1,No,Response,
+8/31/2020 10:48:00,Text,4,Incoming,1,No,Response,
+8/31/2020 10:48:00,Text,28,Outgoing,1,No,Response,
+8/31/2020 10:58:00,Discord,18,Incoming,106,Cry react,Response,this is fake sad. somehow i think i'll survive
+8/31/2020 11:00:00,Reddit,10,Incoming,1,Pictures&Links&Videos,Scrolling,i am soooooo dumb oh my god 
+8/31/2020 11:01:00,Text,12,Incoming,1,No,Response,fuckkkkkkckckckckck
+8/31/2020 11:02:00,Text,9,Outgoing,1,No,Response,
+8/31/2020 11:02:00,Text,3,Incoming,1,No,Response,
+8/31/2020 11:02:00,Text,8,Outgoing,1,No,Response,
+8/31/2020 11:04:00,Text,28,Incoming,1,No,Response,why does he know more about me than i do
+8/31/2020 11:04:00,Text,1,Outgoing,1,No,Response,???????
+8/31/2020 11:05:00,Text,18,Incoming,1,No,Response,???????
+8/31/2020 11:05:00,Text,10,Outgoing,1,No,Response,
+8/31/2020 11:06:00,Text,24,Incoming,1,No,Response,
+8/31/2020 11:08:00,Text,37,Outgoing,1,No,Response,smashes head on desk
+8/31/2020 11:08:00,Text,9,Incoming,1,No,Response,:')
+8/31/2020 11:09:00,Text,9,Outgoing,1,No,Response,
+8/31/2020 11:09:00,Text,3,Incoming,1,No,Response,
+8/31/2020 11:16:00,Text,57,Outgoing,1,No,Response,
+8/31/2020 11:17:00,Text,6,Incoming,1,No,Response,
+8/31/2020 11:18:00,Text,39,Outgoing,1,No,Comment,ugh
+8/31/2020 11:18:00,Text,9,Outgoing,1,No,Response,why doesn't male birth control exist in the mainstream honestly. the patriarchy is such an inconvenience
+8/31/2020 11:19:00,Text,13,Incoming,1,No,Response,i kinda wish my hair was lighter?
+8/31/2020 11:19:00,Text,1,Outgoing,1,No,Response,
+8/31/2020 11:19:00,Text,9,Incoming,1,No,Response,
+8/31/2020 11:19:00,Text,6,Outgoing,1,No,Response,
+8/31/2020 11:19:00,Text,6,Incoming,1,No,Response,
+8/31/2020 11:20:00,Text,18,Incoming,1,No,Response,now it is I who is funny. 
+8/31/2020 11:20:00,Text,16,Outgoing,1,No,Response,
+8/31/2020 11:20:00,Text,2,Incoming,1,No,Response,
+8/31/2020 11:21:00,Text,29,Outgoing,1,No,Response,we bonding rn?
+8/31/2020 11:21:00,Text,9,Incoming,1,No,Response,
+8/31/2020 11:22:00,Text,18,Outgoing,1,No,Response,you're goofy
+8/31/2020 11:22:00,Text,23,Incoming,1,No,Response,
+8/31/2020 11:24:00,Text,8,Outgoing,1,Nose drip emoji,Response,im dying? 
+8/31/2020 11:24:00,Text,7,Outgoing,1,No,Response,but you are the best
+8/31/2020 11:25:00,Text,5,Incoming,1,No,Response,
+8/31/2020 11:25:00,Text,6,Incoming,1,No,Response,
+8/31/2020 11:26:00,Text,5,Outgoing,1,No,Response,you're the most precious
+8/31/2020 11:26:00,Text,1,Outgoing,1,No,Response,
+8/31/2020 11:27:00,Text,11,Incoming,1,No,Response,this is embarassing
+8/31/2020 11:28:00,Text,38,Outgoing,1,No,Response,
+8/31/2020 11:29:00,Text,18,Incoming,1,No,Response,
+8/31/2020 11:29:00,Text,15,Outgoing,1,No,Response,
+8/31/2020 11:30:00,Text,6,Incoming,1,No,Response,
+8/31/2020 11:30:00,Text,6,Outgoing,1,No,Response,
+8/31/2020 11:32:00,Text,21,Incoming,1,No,Response,please stop with this
+8/31/2020 11:32:00,Text,11,Outgoing,1,No,Response,
+8/31/2020 11:33:00,Text,1,Incoming,1,No,Response,i wish you weren't the last person i talked to.
