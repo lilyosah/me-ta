@@ -19,28 +19,6 @@ COLOR_MAP = {
     'WhatsApp': "#ffc6ff"
 }
 
-# COLOR_MAP = {
-#     'Email': "#f3722c",
-#     'Text': "#f8961e",
-#     'Reddit': "#f9c74f",
-#     'Slack': "#90be6d",
-#     'GroupMe': "#43aa8b",
-#     'Discord': "#4d908e",
-#     'Zoom': "#577590",
-#     'WhatsApp': "#277da1"
-# }
-
-# COLOR_MAP = {
-#     'Email': "#A288A6",
-#     'Text': "#264653",
-#     'Reddit': "#2A9D8F",
-#     'Slack': "#E9C46A",
-#     'GroupMe': "#F4A261",
-#     'Discord': "#E76F51",
-#     'Zoom': "#931621",
-#     'WhatsApp': "#E24E1B"
-# }
-
 BORDER_RADIUS_MAP = {
     "Incoming": "0",
     "Outgoing": "20px",
@@ -70,8 +48,6 @@ def process_metadata():
         elif (num_boxes_needed > POSSIBLE_SPAN):
             num_boxes_needed = POSSIBLE_SPAN
 
-        # print(num_boxes_in_row, "total", num_boxes_needed)
-
         if (num_boxes_needed + num_boxes_in_row > POSSIBLE_SPAN):
             data.append(row)
             row = []
@@ -87,7 +63,6 @@ def process_metadata():
 
     f.close()
     data.append(row)
-    # print(platforms)
     return data
 
 
@@ -115,9 +90,3 @@ for line in data:
     f.write(str(line)+",\n")
 f.write("];")
 f.close()
-# csvwriter = DictWriter(f)
-# csvwriter.writerows(data)
-
-# print(dict)
-# f.append(str(dict))
-# print(data)
